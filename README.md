@@ -1,4 +1,4 @@
-Attempt to visualize word clouds in 3D using ThreeJS. Open test.html to try it. Call of Cthulu is a sample text file you can use.
+Attempt to visualize word clouds in 3D using ThreeJS. Open test.html to try it. Call of Cthulu is a sample text file you can use. Try it at https://archfrosty.github.io/3D-Word-Cloud/
 
 
 ## DISCLAIMER - please read!
